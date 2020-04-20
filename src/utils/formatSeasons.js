@@ -9,3 +9,11 @@ export const formatSeasons = allEpisodes => {
   console.log(seasons);
   return seasons;
 };
+
+
+//trying stretch
+
+
+export const addNumbers = (x,y) => {
+  return x+ y
+}
